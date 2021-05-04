@@ -1,0 +1,1 @@
+Click here to <a href="/enroll">Enroll</a>
